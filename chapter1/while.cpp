@@ -1,4 +1,4 @@
-//while.c -- 用whlie实现循环求和
+//while.cpp -- 用whlie实现循环求和
 
 #include<iostream>
 
